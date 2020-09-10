@@ -1,7 +1,7 @@
 # MVVM-Template
 ![alt text](./mvvm-template.png "Logo Title Text 1")
 
-### Try the app [here](./apk/app-debug.apk).
+### Try the app [here](https://drive.google.com/file/d/1uN8Baz6dYMyhMcO8gundE8uiXtkyvNBz/view?usp=sharing).
 
 ## Below is the directory of the project:
 ![alt text](./project-directory.png "directory")
